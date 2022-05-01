@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LR2</string>
+    <string name="t1_tv">Happy Easter!</string>
+    <string name="t2_tv_scramble">Word Scramble</string>
+    <string name="t2_tv_scrambled2">Scrambled Word</string>
+    <string name="t2_btn_submit_word">Submit Word</string>
+
+    <string-array name="word_list">
+        <item>white</item>
+        <item>sepia</item>
+        <item>black</item>
+        <item>pink</item>
+    </string-array>
+</resources>
